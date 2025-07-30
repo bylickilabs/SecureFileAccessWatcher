@@ -16,7 +16,7 @@
 
 ---
 
-## 🇬🇧 Description (English)
+##EN Description (English)
 
 **Secure File Access Watcher** is a lightweight Python-based utility for real-time monitoring of file and folder access on your local system – fully privacy-compliant and offline. It tracks file modifications (created, deleted, modified) and displays events with timestamps, paths, and user context in a clean GUI.
 
