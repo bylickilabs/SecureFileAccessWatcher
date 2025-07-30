@@ -1,5 +1,8 @@
 # 🔐 Secure File Access Watcher
 
+|![Logo](./assets/logo.png)|
+|---|
+
 ## 🇩🇪 Beschreibung (Deutsch)
 
 **Secure File Access Watcher** ist ein leichtgewichtiges Python-Tool zur Überwachung von Datei- und Ordnerzugriffen auf dem lokalen System – in Echtzeit und vollständig DSGVO-konform. Die Anwendung erkennt Dateiänderungen (Erstellen, Löschen, Modifizieren) und speichert alle Ereignisse inklusive Zeit, Pfad und Benutzer in einer übersichtlichen Oberfläche.
